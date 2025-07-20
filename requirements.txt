@@ -1,0 +1,8 @@
+langchain==0.3.26
+langchain-community==0.3.27
+langchain-core==0.3.68
+langchain-groq==0.3.6
+langchain-ollama==0.3.4
+langchain-openai==0.3.28
+streamlit==1.45.1
+pandas==2.3.0
